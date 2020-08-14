@@ -4,7 +4,12 @@ Great Minecraft hacking tools [All In One]
 What is Zniper?
 Zniper is a very usefull Minecraft hacking tools such as scanning ports, subdomains, domains, ip range and scanning ip. Maybe in the future (if I can) I will be adding more features. I have many ideas but I just need to know how to make it possible...
 
+Why Zniper?
+If you want to grief servers but you don't know how to start, which tools to use, clients, etc then use Zniper. Zniper will help you to discover ports, subdomains, get staff names, and some grief commands. In future versions I will add grief tutorials and things like that :3
+
 ToS:
-This ToS is already on the Zniper.py selecting the option n°6 but I don't care.
-You can edit all you want from Zniper tool, but you CAN'T distribute your version (edited) unless you leave some info telling that originaly it was made by me (Bart0)
-If you see some problems don't contact me directly, first see if you installed all correctly and then if it's all correct you can contact me. BUT if you edited Zniper and there's some errors then don't contact me, it's not my fault :)
+It's simple, you can edit the project as you want, the only thing is that if you edit it and you have troubles I will not be able to help you :)
+Also, don't say that the project is yours, give me credit ;)
+
+If you like this tool, don't forget to help me to grow on YouTube :D
+Link -> https://www.youtube.com/channel/UC8Lh3L8uEQAkRnMq9yhUeOA?sub_confirmation=1
