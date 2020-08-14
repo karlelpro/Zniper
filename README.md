@@ -8,6 +8,7 @@ Why Zniper?
 If you want to grief servers but you don't know how to start, which tools to use, clients, etc then use Zniper. Zniper will help you to discover ports, subdomains, get staff names, and some grief commands. In future versions I will add grief tutorials and things like that :3
 
 Install Zniper:
+
 Linux:
 1) git clone https://github.com/karlelpro/Zniper.git
 2) cd Zniper
